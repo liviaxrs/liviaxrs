@@ -4,7 +4,7 @@
 
 💡 Apaixonado por **Análise de Dados, Machine Learning e Engenharia de Dados**. 
 
-🚀 Trabalhando em projetos com **Python, SQL, AWS, Machine Learning e Flutter**.
+🚀 Trabalhando em projetos com **Python, SQL, Machine Learning e Flutter**.
 
 ---
 
