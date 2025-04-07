@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação** na Universidade Federal Rural de Pernambuco. 
 
-💡 Apaixonado por **Análise de Dados, Machine Learning e Engenharia de Dados**. 
+💡 Apaixonada por **Análise de Dados, Machine Learning e Engenharia de Dados**. 
 
 🚀 Trabalhando em projetos com **Python, SQL, Machine Learning e Flutter**.
 
